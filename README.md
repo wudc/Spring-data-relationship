@@ -1,8 +1,8 @@
-This README provides a brief overview of the entities, repositories, and usage instructions for the Project Management System. Customize it further based on your project's specific details and requirements.
+This README provides a brief overview of the entities, repositories, and usage instructions for the Spring Data entity with one-to-one and one-to-many relationship examples. Customize it further based on your project's specific details and requirements.
 
-# Project Management System
+# Spring Data
 
-This project implements a simple Project Management System using Java JPA entities and Spring Data repositories.
+This project implements a few simple entity relationships using Java JPA entities and Spring Data repositories.
 
 ## Entities
 
